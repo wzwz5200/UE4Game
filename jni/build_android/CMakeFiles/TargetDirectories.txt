@@ -1,0 +1,3 @@
+/home/wz/Project/Ue4Gname/jni/build_android/CMakeFiles/UE4Game.dir
+/home/wz/Project/Ue4Gname/jni/build_android/CMakeFiles/edit_cache.dir
+/home/wz/Project/Ue4Gname/jni/build_android/CMakeFiles/rebuild_cache.dir

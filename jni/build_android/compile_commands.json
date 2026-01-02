@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/wz/Project/Ue4Gname/jni/build_android",
+  "command": "/opt/android-ndk-r27d/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --sysroot=/opt/android-ndk-r27d/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -I/home/wz/Project/Ue4Gname/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -std=gnu++17 -fPIE -o CMakeFiles/UE4Game.dir/src/Init/init.cpp.o -c /home/wz/Project/Ue4Gname/jni/src/Init/init.cpp",
+  "file": "/home/wz/Project/Ue4Gname/jni/src/Init/init.cpp",
+  "output": "CMakeFiles/UE4Game.dir/src/Init/init.cpp.o"
+},
+{
+  "directory": "/home/wz/Project/Ue4Gname/jni/build_android",
+  "command": "/opt/android-ndk-r27d/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --sysroot=/opt/android-ndk-r27d/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -I/home/wz/Project/Ue4Gname/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -std=gnu++17 -fPIE -o CMakeFiles/UE4Game.dir/src/Init/init2.cpp.o -c /home/wz/Project/Ue4Gname/jni/src/Init/init2.cpp",
+  "file": "/home/wz/Project/Ue4Gname/jni/src/Init/init2.cpp",
+  "output": "CMakeFiles/UE4Game.dir/src/Init/init2.cpp.o"
+},
+{
+  "directory": "/home/wz/Project/Ue4Gname/jni/build_android",
+  "command": "/opt/android-ndk-r27d/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --sysroot=/opt/android-ndk-r27d/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -I/home/wz/Project/Ue4Gname/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -std=gnu++17 -fPIE -o CMakeFiles/UE4Game.dir/src/main.cpp.o -c /home/wz/Project/Ue4Gname/jni/src/main.cpp",
+  "file": "/home/wz/Project/Ue4Gname/jni/src/main.cpp",
+  "output": "CMakeFiles/UE4Game.dir/src/main.cpp.o"
+}
+]

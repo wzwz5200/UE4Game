@@ -1,0 +1,9 @@
+--gname 134AD4F8  --gworld 0x1373A758 
+
+    Uleve = driver->read<uintptr_t>(Uworld + ULEVE_OFFSET) + A0_OFFSET;
+        Arrayaddr = driver->read<uintptr_t>(Uleve);
+        Count = driver->read<int>(Uleve + COUNT_OFFSET);
+
+        if (Count <= 0 || Count > 2000) {
+            continue;
+        }
